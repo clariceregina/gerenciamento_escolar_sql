@@ -2,6 +2,8 @@
 
 Este projeto consiste na manipulação de um banco de dados relacional voltado para o gerenciamento de uma instituição de ensino. O sistema contempla o cadastro de **alunos, professores, disciplinas, turmas** e o controle de **notas**.
 
+As consultas foram realizadas no SQLite Online.
+
 ---
 
 ## 🧱 Estrutura do Banco de Dados
